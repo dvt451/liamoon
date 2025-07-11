@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.8478f5fc.css",
-    "main.js": "/static/js/main.e2ae36e6.js",
+    "main.css": "/static/css/main.4265b0bb.css",
+    "main.js": "/static/js/main.79b10164.js",
     "static/media/head-video.mp4": "/static/media/head-video.2a608f306a5268c34179.mp4",
     "static/media/SegoeUI.ttf": "/static/media/SegoeUI.ef1c00b65a5fd5bae3bb.ttf",
     "static/media/girl1.webp": "/static/media/girl1.96939451f10217c21c71.webp",
@@ -53,11 +53,11 @@
     "static/media/icons8-instagram-48.webp": "/static/media/icons8-instagram-48.6393aaf35a362338d178.webp",
     "static/media/youtube.svg": "/static/media/youtube.63cd1090672719d473e366a2172adea6.svg",
     "static/media/facebook.svg": "/static/media/facebook.ce90f52eec819e99c9b531c935e9fd62.svg",
-    "main.8478f5fc.css.map": "/static/css/main.8478f5fc.css.map",
-    "main.e2ae36e6.js.map": "/static/js/main.e2ae36e6.js.map"
+    "main.4265b0bb.css.map": "/static/css/main.4265b0bb.css.map",
+    "main.79b10164.js.map": "/static/js/main.79b10164.js.map"
   },
   "entrypoints": [
-    "static/css/main.8478f5fc.css",
-    "static/js/main.e2ae36e6.js"
+    "static/css/main.4265b0bb.css",
+    "static/js/main.79b10164.js"
   ]
 }
